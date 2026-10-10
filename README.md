@@ -7,7 +7,7 @@
 </p>
 
 ### 💻 Profil & Hakkımda
-Erciyes Üniversitesi Bilgisayar Mühendisliği mezunuyum[cite: 5]. Python, Java ve C# ile FastAPI, Spring Boot ve .NET kullanarak RESTful API ve veritabanı tabanlı backend servisleri geliştiriyorum[cite: 5]. Windows Server, Active Directory ve VMware tabanlı sistem yönetimi deneyimimin yanı sıra; DevOps, Docker, CI/CD ve bulut altyapıları alanlarında kendimi geliştirerek backend/DevOps yönünde uzmanlaşmayı hedefliyorum[cite: 5].
+Erciyes Üniversitesi Bilgisayar Mühendisliği mezunuyum. Python, Java ve C# ile FastAPI, Spring Boot ve .NET kullanarak RESTful API ve veritabanı tabanlı backend servisleri geliştiriyorum. Windows Server, Active Directory ve VMware tabanlı sistem yönetimi deneyimimin yanı sıra; DevOps, Docker, CI/CD ve bulut altyapıları alanlarında kendimi geliştirerek backend/DevOps yönünde uzmanlaşmayı hedefliyorum.
 
 ---
 
@@ -25,24 +25,34 @@ Erciyes Üniversitesi Bilgisayar Mühendisliği mezunuyum[cite: 5]. Python, Java
 
 ### 🚀 Öne Çıkan Projeler
 
-* **Yapay Zekâ Tabanlı Bitki Hastalığı Teşhis Sistemi**[cite: 5]
-  * *Mimari:* Python, TensorFlow ve Keras kullanarak yaprak tespiti (YOLOv8) ve görüntü sınıflandırma (MobileNet V3Large) modellerini eğittiğim 3 aşamalı yapay zekâ mimarisi[cite: 5].
-  * *Teknolojiler:* Python, TensorFlow, YOLOv8, MobileNet V3Large, FastAPI, PostgreSQL[cite: 5].
+* **Yapay Zekâ Tabanlı Bitki Hastalığı Teşhis Sistemi**
+  * *Mimari:* Python, TensorFlow ve Keras kullanarak yaprak tespiti (YOLOv8) ve görüntü sınıflandırma (MobileNet V3Large) modellerini eğittiğim 3 aşamalı yapay zekâ mimarisi.
+  * *Teknolojiler:* Python, TensorFlow, YOLOv8, MobileNet V3Large, FastAPI, PostgreSQL.
 
-* **QR Kod Tabanlı Yoklama Takip Uygulaması**[cite: 5]
-  * *Mimari:* QR kod oluşturma ve doğrulama süreçlerini yürüten RESTful API servisleri[cite: 5].
-  * *Teknolojiler:* Java, Spring Boot, MySQL, Postman[cite: 5].
+* **QR Kod Tabanlı Yoklama Takip Uygulaması**
+  * *Mimari:* QR kod oluşturma ve doğrulama süreçlerini yürüten RESTful API servisleri.
+  * *Teknolojiler:* Java, Spring Boot, MySQL, Postman.
 
-* **Kurumsal Windows Server ve Active Directory Altyapısı**[cite: 5]
-  * *Mimari:* VMware üzerinde kurumsal laboratuvar ortamı, AGDLP yetkilendirme modeli ve Group Policy yapılandırmaları[cite: 5].
-  * *Teknolojiler:* Windows Server 2022, Active Directory, DNS, DHCP, VMware Workstation[cite: 5].
+* **Kurumsal Windows Server ve Active Directory Altyapısı**
+  * *Mimari:* VMware üzerinde kurumsal laboratuvar ortamı, AGDLP yetkilendirme modeli ve Group Policy yapılandırmaları.
+  * *Teknolojiler:* Windows Server 2022, Active Directory, DNS, DHCP, VMware Workstation.
 
 ---
 
 ### 💼 Deneyim
 
-* **Er Piliç** — *Bilgi İşlem Stajyeri* (Temmuz 2026 - Ağustos 2026 / Bolu)[cite: 5]
-* **Hidromek A.Ş.** — *Yazılım Geliştirme Stajyeri* (Ağustos 2025 - Eylül 2025 / Ankara)[cite: 5]
+* **Er Piliç** — *Bilgi İşlem Stajyeri* (Temmuz 2026 - Ağustos 2026 / Bolu)
+* **Hidromek A.Ş.** — *Yazılım Geliştirme Stajyeri* (Ağustos 2025 - Eylül 2025 / Ankara)
+
+---
+
+### 📜 Sertifikalar & Belgeler
+
+* **İngilizce Dil Yeterlilik Sertifikası (B1)** — Berlitz Dil Okulu
+* **Java ile Programlamaya Giriş** — Bilgi Teknolojileri ve İletişim Kurumu (BTK Akademi)
+* **Kali Linux** — Bilgi Teknolojileri ve İletişim Kurumu (BTK Akademi)
+* **Versiyon Kontrolleri: Git ve GitHub** — Bilgi Teknolojileri ve İletişim Kurumu (BTK Akademi)
+* **Onur Belgesi** — Erciyes Üniversitesi
 
 ---
 
